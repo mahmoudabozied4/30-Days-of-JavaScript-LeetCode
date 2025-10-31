@@ -56,25 +56,25 @@ node closures/2667.js
 <td>2667</td>
 <td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
 <td><a href="https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript">Create Hello World Function</a></td>
-<td><a href="closures/2667.js">Code</a></td>
+<td><a href="closures/2809-create-hello-world-function.js">Code</a></td>
 </tr>
 <tr>
 <td>2620</td>
 <td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
 <td><a href="https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript">Counter</a></td>
-<td><a href="closures/2620.js">Code</a></td>
+<td><a href="closures/2732-counter.js">Code</a></td>
 </tr>
 <tr>
 <td>2704</td>
 <td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
 <td><a href="https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript">To Be Or Not To Be</a></td>
-<td><a href="closures/2704.js">Code</a></td>
+<td><a href="closures/2813-to-be-or-not-to-be.js ">Code</a></td>
 </tr>
 <tr>
 <td>2665</td>
 <td><img src="https://img.shields.io/badge/Easy-5CB85C?style=flat-square" alt="Easy"/></td>
 <td><a href="https://leetcode.com/problems/counter-ii/description/?envType=study-plan-v2&envId=30-days-of-javascript">Counter II</a></td>
-<td><a href="closures/2665.js">Code</a></td>
+<td><a href="closures/2789-counter-ii.js">Code</a></td>
 </tr>
 </tbody>
 </table>
